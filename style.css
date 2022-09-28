@@ -53,12 +53,12 @@ header a {
 
 main {
     margin: 70px 0 70px;
-    height: calc(100% - 50px - 70px);
-    overflow-y: auto;
+    height: calc(100% - 140px);
     width: 100%;
 }
 
 .main-container {
+    overflow-y: auto;
     max-width: 95%;
     min-width: 30%;
     margin: 1em auto;
